@@ -1,0 +1,3 @@
+# Unhandled Exceptions in Asynchronous Dart Code
+
+This repository demonstrates a common error in Dart: neglecting to handle potential exceptions during asynchronous operations like network requests or JSON parsing. The example showcases how to improve error handling using `try-catch` blocks and proper JSON handling. The solution provides improved error handling and uses a more robust approach to parse JSON responses.
